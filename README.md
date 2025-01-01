@@ -16,6 +16,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+Im a student of Information Technology at Panca Budi Development University, I have a passion and knowledge in the field of information technology. I enjoy learning new things and sharing knowledge to others.
+
 - 🔭 I’m currently working on  Kitakale ID as a Freelance Mobile Dev
   
 - 🌱 I’m currently learning Flutter, Dart, Python and Express JS
