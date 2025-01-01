@@ -56,5 +56,3 @@ I'm a student of Information Technology at Panca Budi Development University, I 
 
 -----
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
