@@ -1,25 +1,78 @@
-<h1 align="center">Hi 👋, I'm Sajudin Ma'ruf</h1>
-<h3 align="center">A student of Information Technology at Panca Budi Development University, I have a passion and knowledge in the field of information technology. I enjoy learning new things and sharing knowledge to others.</h3>
+### print(Hello, i'm Sajudin Ma'ruf 👋 );
 
-- 🔭 I’m currently working on Kitakale ID as a Freelancer Mobile Dev [JDMStore & Kaosnyaman](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)
+-----
 
-- 🌱 I’m currently learning **Flutter, Python, Express JS**
-
-- 👨‍💻 All of my projects are available at [https://sajudins.vercel.app/](https://sajudins.vercel.app/)
-
-- 💬 Ask me about **React, React Native**
-
-- 📫 How to reach me **sajudinmaruf@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img alt="GIF" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width = full/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+-----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udean777&show_icons=true&locale=en&layout=compact" alt="udean777" /></p>
+![profile count](https://komarev.com/ghpvc/?username=Udean777&color=red)&nbsp;
+[![GitHub Udean777](https://img.shields.io/github/followers/Udean777?label=follow&style=social)](https://github.com/Udean777)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udean777&show_icons=true&locale=en" alt="udean777" /></p>
+💡 &nbsp; A student of Information Technology at Panca Budi Development University, I have a passion and knowledge in the field of information technology. I enjoy learning new things and sharing knowledge to others. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udean777&" alt="udean777" /></p>
+🌱 &nbsp;I'm on track for learning more about Android Development and MultiPlatform App, especially using Flutter, Jetpack Compose and React Native.\
+✍️ &nbsp;Apart from technical interests, I love playing games, singing, read books and learn something new.\
+💬 &nbsp;Feel free to reach out to me for discussions \
+✉️ &nbsp;You can email me at sajudinmaruf@gmail.com. I'll try to respond ASAP!\
+📄 &nbsp;You can check my [Resume](file:///Users/sajudin/Downloads/CV%20Sajudin%20Ma'ruf%20(1).pdf) for more details about work experience.
+
+-----
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/sajudin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/ssajudn/"><img src="https://img.shields.io/badge/-@ssajudn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:sajudinmaruf@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+-----  
+
+
+
+<h1 align="center">Projects</h1>
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [JDMStore](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)   | Project for POS app Using React Native. [Go to PlayStore](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)        | 
+| [Kaosnyaman](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)   | Project for POS app Using React Native. [Go to PlayStore](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)        | 
+| [Uang Bijak](https://github.com/Udean777/Expense-Tracker)   | An Expense Tracker app, built using Kotlin and Jetpack Compose. Have a look [https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)       | 
+| [Threads Lite](https://github.com/Udean777/threads-clone) | a Threads clone build with React Native, Clerk for authentication and Convex for database. Inspired by Simon Grimm on Youtube. |
+| [5_letters](https://github.com/Udean777/5_letters) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
+| [Personal Portfolio](https://github.com/Udean777/portfolio-new) | This is my personal personal-portfolio website. Have a look [https://sajudins.vercel.app](https://sajudins.vercel.app) |
+
+<hr>
+
+### Languages and Tools
+
+<p>
+ 
+ 
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"/></code>
+ 
+ 
+ -----
+  
+</p>
+
+
+
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Udean777&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Udean777&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udean777&layout=compact&theme=dark" width="46%" />
