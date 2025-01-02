@@ -40,7 +40,6 @@
 | [Kaosnyaman](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)   | Project for POS app Using React Native. [Go to PlayStore](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)        | 
 | [Uang Bijak](https://github.com/Udean777/Expense-Tracker)   | An Expense Tracker app, built using Kotlin and Jetpack Compose. Have a look [https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)       | 
 | [Threads Lite](https://github.com/Udean777/threads-clone) | a Threads clone build with React Native, Clerk for authentication and Convex for database. Inspired by Simon Grimm on Youtube. |
-| [5_letters](https://github.com/Udean777/5_letters) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
 | [Personal Portfolio](https://github.com/Udean777/portfolio-new) | This is my personal personal-portfolio website. Have a look [https://sajudins.vercel.app](https://sajudins.vercel.app) |
 
 <hr>
