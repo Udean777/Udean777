@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajudin Ma'ruf</h1>
 <h3 align="center">A student of Information Technology at Panca Budi Development University, I have a passion and knowledge in the field of information technology. I enjoy learning new things and sharing knowledge to others.</h3>
 
-- 🔭 I’m currently working on Kitakale ID [JDMStore & Kaosnyaman](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)
+- 🔭 I’m currently working on Kitakale ID as a Freelancer Mobile Dev [JDMStore & Kaosnyaman](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)
 
 - 🌱 I’m currently learning **Flutter, Python, Express JS**
 
