@@ -18,7 +18,7 @@
 ✍️ &nbsp;Apart from technical interests, I love playing games, singing, read books and learn something new.\
 💬 &nbsp;Feel free to reach out to me for discussions \
 ✉️ &nbsp;You can email me at sajudinmaruf@gmail.com. I'll try to respond ASAP!\
-📄 &nbsp;You can check my [Resume](file:///Users/sajudin/Downloads/CV%20Sajudin%20Ma'ruf%20(1).pdf) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/drive/u/1/home) for more details about work experience.
 
 -----
 ### 📫 &nbsp; How to reach me:
