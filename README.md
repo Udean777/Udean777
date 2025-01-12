@@ -38,9 +38,10 @@
 | :---:        |    :----   |  
 | [JDMStore](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)   | Project for POS app Using React Native. [Go to PlayStore](https://play.google.com/store/apps/details?id=com.kitakale.JDMStore)        | 
 | [Kaosnyaman](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)   | Project for POS app Using React Native. [Go to PlayStore](https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman)        | 
-| [Uang Bijak](https://github.com/Udean777/Expense-Tracker)   | An Expense Tracker app, built using Kotlin and Jetpack Compose. Have a look [https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)       | 
+| [Uang Bijak](https://github.com/Udean777/Expense-Tracker)   | An Expense Tracker app, built using Kotlin and Jetpack Compose. [Check it out!](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)       | 
 | [Threads Lite](https://github.com/Udean777/threads-clone) | a Threads clone build with React Native, Clerk for authentication and Convex for database. Inspired by Simon Grimm on Youtube. |
-| [Personal Portfolio](https://github.com/Udean777/portfolio-new) | This is my personal personal-portfolio website. Have a look [https://sajudins.vercel.app](https://sajudins.vercel.app) |
+| [Personal Portfolio](https://github.com/Udean777/portfolio-new) | This is my personal personal-portfolio website. [Check it out!](https://sajudins.vercel.app) |
+| [The Habits](https://github.com/Udean777/habit_tracker) | An app for creating your daily habit, it has a feature for reminding you to do your things today with push notifications. It's similar like todo list but cooler. [Check it out!](https://github.com/Udean777/habit_tracker) |
 
 <hr>
 
@@ -70,7 +71,7 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Udean777&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Udean777)](https://git.io/streak-stats)
 
  </div>
 
