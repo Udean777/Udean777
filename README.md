@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udean777&label=Profile%20views&color=0e75b6&style=flat" alt="Udean777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Udean777" alt="Udean777" /></a> </p>
-
-- 🔭 I’m currently working on enhancing [Uang Bijak apps](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)
+- 🔭 I’m currently working on enhancing UI & Features of [Uang Bijak](https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker)
 
 - 🌱 I’m currently learning **Flutter & KMP**
 
@@ -33,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udean777&show_icons=true&locale=en" alt="Udean777" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Udean777&" alt="Udean777" /></p>
