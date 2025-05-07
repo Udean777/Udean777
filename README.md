@@ -1,3 +1,5 @@
+<img src="img/github-header-image.png" alt="Profile Header" width="100%" />
+
 <h1 align="center">Hello World 👋, I'm Sajudin Ma'ruf</h1>
 <h3 align="center">A passionate mobile & frontend developer from Indonesia</h3>
 
