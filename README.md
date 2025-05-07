@@ -1,7 +1,7 @@
 <img src="img/github-header-image.png" alt="Profile Header" width="100%" />
 
 <h1 align="center">Hello World 👋, I'm Sajudin Ma'ruf</h1>
-<h3 align="center">A passionate mobile & frontend developer from Indonesia</h3>
+<h3 align="center">A passionate mobile & frontend developer from Indonesia🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udean777&label=Profile%20views&color=0e75b6&style=flat" alt="Udean777" /> </p>
 
