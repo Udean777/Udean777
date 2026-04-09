@@ -75,7 +75,7 @@
     <td width="50%" valign="top">
       <h4>👕 kaosnyaman</h4>
       <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-      <p>Custom apparel platform built with React Native for a seamless shopping experience.</p>
+      <p>Mobile Point of Sale (POS) system for custom apparel and clothing retail.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
@@ -85,7 +85,7 @@
     <td width="50%" valign="top">
       <h4>👕 jdmstore</h4>
       <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-      <p>Mobile marketplace for automotive enthusiasts and JDM parts.</p>
+      <p>Mobile Point of Sale (POS) system for custom apparel and clothing retail.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
