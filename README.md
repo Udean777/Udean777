@@ -22,7 +22,7 @@
 ### 💫 About Me
 
 <p align="left">
-  I am a passionate <b>Fullstack Developer</b> dedicated to building elegant and efficient web applications. Currently, I am focused on scaling my project at <a href="https://vivnio.com"><b>Vivnio.com</b></a>.
+  I am a student of Information Technology at Pembangunan Panca Budi University with a deep passion for technology and a love for continuous learning and sharing knowledge. As a dedicated <b>Fullstack Developer</b>, I focus on building elegant and efficient web applications, currently scaling my project at <a href="https://vivnio.com"><b>Vivnio.com</b></a>. While I primarily specialize as a Frontend and Mobile Developer using React JS, Sveltekit, React Native, and Flutter, I am always open to exploring new roles and technologies in the future.
 </p>
 
 - 🔭 I’m currently working on [**Vivnio.com**](https://vivnio.com)
