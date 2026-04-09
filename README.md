@@ -149,5 +149,5 @@
   <br/>
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Thanks%20for%20visiting!&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text=Thanks%20for%20visiting!&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
