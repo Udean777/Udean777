@@ -59,20 +59,6 @@
       <a href="https://vivnio.com"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📦 POS System</h4>
-      <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square" />
-      <p>Point of Sale application built with Flutter & Go for efficient business management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Udean777/POS-App-Server"><b>Server Repository →</b></a><br/>
-      <a href="https://github.com/Udean777/POS-App-Client"><b>Client Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>👕 kaosnyaman</h4>
       <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
       <p>Mobile Point of Sale (POS) system for custom apparel and clothing retail.</p>
@@ -82,6 +68,8 @@
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.udeans.kaosnyaman"><b>View Project →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>👕 jdmstore</h4>
       <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
@@ -92,8 +80,6 @@
       </p>
       <a href="https://play.google.com/store/apps/details?id=com.kitakale.JDMStore"><b>View Project →</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>📚 Fun English for EarlyChildhood</h4>
       <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
@@ -110,8 +96,10 @@
 
 <br/>
 
-#### 🔗 Other Projects
+#### 🔗 Personal Projects
 
+- **Poker Gambit** - A strategic poker game with a twist! 🃏 Features: Smart AI, Skill cards (Spy/Witch/Joker), and real-time interactive QTE defenses. Premium mobile experience built with Flutter. 💎 [<a href="https://github.com/Udean777/poker-gambit">Link</a>]
+- **POS System** - Point of Sale application built with Flutter & Go for efficient business management. [<a href="https://github.com/Udean777/POS-App-Server">Server</a> | <a href="https://github.com/Udean777/POS-App-Client">Client</a>]
 - **Portfolio Website** - Personal portfolio website showcasing skills and experiences. [<a href="https://www.sajudin.my.id/">Link</a>]
 - **The Habits** - A simple and intuitive todo list application to manage daily tasks. [<a href="https://play.google.com/store/apps/details?id=com.ssajudin.the_habits">Link</a>]
 - **Uang Bijak** - An expense tracker app to help manage personal finances. [<a href="https://play.google.com/store/apps/details?id=com.ssajudn.expensetracker">Link</a>]
